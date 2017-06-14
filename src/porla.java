@@ -4,7 +4,7 @@
 public class porla {
     String ty;
     int hu;
-    int gh;
+    
     
     
     
