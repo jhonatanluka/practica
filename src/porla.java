@@ -5,6 +5,7 @@ public class porla {
     String ty;
     int hu;
     int lol;
+    int to;
 
     
     
