@@ -7,6 +7,7 @@ public class porla {
     int lol;
     int to;
     int lol2;
+    int oo;
     
     
     
